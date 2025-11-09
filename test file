@@ -1,0 +1,9 @@
+name=Test_ArdLab
+version=1.0.0
+author=saeed Alajam
+maintainer=saeed Alajam
+sentence=An example library for Arduino.
+paragraph=This library demonstrates how to publish custom code to the Arduino Library Manager.
+category=Learning
+url=https://github.com/1998Saeed/Test_ArdLab
+architectures=arduino
